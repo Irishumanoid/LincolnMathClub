@@ -53,7 +53,7 @@ export default {
           "label": "Summer Program"
         },
         {
-          "to": "/blog",
+          "to": "https://lincoln-math-competition-website.vercel.app/",
           "label": "Our Math Competition",
           "position": "left"
         },
@@ -99,7 +99,7 @@ export default {
           "items": [
             {
               "label": "Email",
-              "href": "mailto:youremail@gmail.com"
+              "href": "mailto:lincolnmathclubseattle@gmail.com"
             }
           ]
         }

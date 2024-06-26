@@ -1,0 +1,27 @@
+{
+  "id": "our_tutors",
+  "title": "Meet our Instructors",
+  "description": "Our instructors are a group of motivated high school students who are passionate about math. They have either participated",
+  "source": "@site/docs/our_tutors.md",
+  "sourceDirName": ".",
+  "slug": "/our_tutors",
+  "permalink": "/docs/our_tutors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Meet our instructors",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About our program",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Grade Level Tutoring Classes",
+    "permalink": "/docs/tutoring_classes"
+  }
+}

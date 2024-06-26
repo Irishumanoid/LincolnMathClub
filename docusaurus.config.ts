@@ -62,7 +62,7 @@ const config: Config = {
           position: 'left',
           label: 'Summer Program',
         },
-        {to: '/blog', label: 'Our Math Competition', position: 'left'},
+        {to: 'https://lincoln-math-competition-website.vercel.app/', label: 'Our Math Competition', position: 'left'},
         {
           href: 'https://github.com/LincolnMathClub/LincolnMathClub',
           label: 'GitHub',
@@ -104,7 +104,7 @@ const config: Config = {
           items: [
             {
               label: 'Email',
-              href: 'mailto:youremail@gmail.com',
+              href: 'mailto:lincolnmathclubseattle@gmail.com',
             },
           ],
         },

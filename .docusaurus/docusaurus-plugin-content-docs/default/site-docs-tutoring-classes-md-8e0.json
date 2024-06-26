@@ -1,0 +1,27 @@
+{
+  "id": "tutoring_classes",
+  "title": "Grade Level Tutoring Classes",
+  "description": "These classes are intended to provide a quick review of the respective grade and prepare your child for their next year of",
+  "source": "@site/docs/tutoring_classes.md",
+  "sourceDirName": ".",
+  "slug": "/tutoring_classes",
+  "permalink": "/docs/tutoring_classes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Grade Level Tutoring Classes",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meet our instructors",
+    "permalink": "/docs/our_tutors"
+  },
+  "next": {
+    "title": "Competitive Math Training Class",
+    "permalink": "/docs/competition_class"
+  }
+}

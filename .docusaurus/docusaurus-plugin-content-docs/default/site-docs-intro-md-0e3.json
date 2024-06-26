@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Session Information",
+  "description": "Our classes will occur throughout the month of July, starting the week of July 8th. Each class will occur twice per week, for four weeks, and the exact schedule for each class will be released on July 1st. We are teaching 4 classes: competitive math preparation, 3rd grade accelerated review, 4th grade accelerated review, and 5th grade accelerated review.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -12,11 +12,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
+    "sidebar_label": "About our program",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Meet our instructors",
+    "permalink": "/docs/our_tutors"
   }
 }

@@ -11,58 +11,55 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "competition_class",
+              "path": "/docs/competition_class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "our_tutors",
+              "path": "/docs/our_tutors",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-basics/create-a-blog-post"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-basics/create-a-document"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-basics/create-a-page"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-basics/deploy-your-site"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-basics/markdown-features"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-extras/translate-your-site"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "tutoring_classes",
+              "path": "/docs/tutoring_classes",
               "sidebar": "tutorialSidebar"
             }
           ],
