@@ -13,7 +13,7 @@ in numerous math competitions, excel at school-level math, or both! Here are som
 ### Grace Shao
 <img src="/img/grace.png" alt="Grace Shao" title="Grace Shao" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
 #### Classes: 4th grade, 5th grade, Competitive math 
-Grace is an accomplished mathlete who has excelled in competitions such as Mathcounts, Math is Cool, AMC, AIME, etc. She is dedicated to helping others understand and enjoy mathematics and has taken great strides as a leader in the Lincoln Math Club this past year. She was instrumental in organizing the Lincoln Math Competition, helping with both publicity and problem writing.
+Grace is an accomplished mathlete who has excelled in competitions such as Mathcounts, Math is Cool, AMC, AIME, etc. She is an incoming sophomore at Lincoln High School and has been teaching competition math courses for elementary schoolers for three years and has tutored students for four. She was instrumental in organizing the Lincoln Math Competition, helping with both publicity and problem writing.
 
 ### Iris Lițiu
 <img src="/img/iris.jpg" alt="Iris Litiu" title="Iris Litiu" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
@@ -48,3 +48,11 @@ Nathan Sebe is a dual-enrollment student at Lincoln High School and North Seattl
 ### Brian Yang
 <img src="/img/brian.jpg" alt="Brian Yang" title="Brian Yang" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
 Brian Yang is a rising sophomore at Lincoln High School and the Secretary for the Lincoln Math Club. He has done competition math for over six years, and has earned many honors in various competitions like the AMC, AIME, Euclid Math Competition, WSMC, etc. In his free time, he enjoys sleeping, eating, playing violin, and doing math!
+
+### Melina Li
+<img src="/img/melina.jpg" alt="Melina Li" title="Melina Li" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
+Melina is starting her second year at UW this autumn 2024, graduating from Ingraham High School early (where she participated in their math club) through the Robinson Center for Young Scholars. She likes the problem solving aspect of math and seeing pretty graphs of functions. In her free time, she enjoys playing volleyball and occasionally chess.
+
+### Mabel Liu
+<img src="/img/mabel.png" alt="Mabel Liu" title="Mabel Liu" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
+Mabel Liu is a rising senior at Lincoln High School. She's taken many math courses throughout her years and will be taking Calculus 3 this coming year, and she especially enjoys the elegance of algebra. In her free time, she enjoys wandering by the UW campus, giving her friends yummy soups, and playing video games.
