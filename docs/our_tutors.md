@@ -11,7 +11,7 @@ in numerous math competitions, excel at school-level math, or both! Here are som
 
 
 ### Grace Shao
-<img src="/img/grace.png" alt="Grace Shao" title="Grace Shao" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
+<img src="/img/grace.jpg" alt="Grace Shao" title="Grace Shao" style={{ width: "150px", height: "auto", display: "block", margin: "0 auto 10px" }} />
 #### Classes: 4th grade, 5th grade, Competitive math 
 Grace is an accomplished mathlete who has excelled in competitions such as Mathcounts, Math is Cool, AMC, AIME, etc. She is an incoming sophomore at Lincoln High School and has been teaching competition math courses for elementary schoolers for three years and has tutored students for four. She was instrumental in organizing the Lincoln Math Competition, helping with both publicity and problem writing.
 

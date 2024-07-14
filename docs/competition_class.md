@@ -23,3 +23,21 @@ Friday July 12th, 19th, 26th, August 2nd --  6:30 - 8 pm
 
 ## Class resources
 We will post the class presentations as well as the problem sets here for review.
+
+<details open>
+<summary>Session 1 Presentation</summary>
+<br/>
+    [YouTube session link](https://youtu.be/pXeM3L1BWyk)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLKetn2JjecIrYlcWfUq2jZ6smzhvU3V5rIM7WZDPKKVNGTGb8gDdQbSPtEOgkRaSTLp4jqAIBNbr2/embed?start=false&loop=true&delayms=30000"
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
+
+<details open>
+<summary>Session 2 Presentation</summary>
+<br/>
+    [YouTube session link](https://youtu.be/twOjG4G_pM8)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaOGGZ_JBFQNvv9AqtMm3iylRzn_qaQI_70egnvZQuMHyCtvDmK4klIy5bplo_3YIyzC6eFcUYU6DX/embed?start=false&loop=false&delayms=3000"
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
