@@ -41,3 +41,20 @@ We will post the class presentations as well as the problem sets here for review
     frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
 </details>
+
+<details open>
+<summary>Session 3 Presentation</summary>
+<br/>
+    [YouTube session link](https://youtu.be/2cXwBO2xXPg)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQewGlLsxg4MYMvBjw462g5KiZFDkQq_NpFbhzAnSfMjssstgvacIeqdzXhD-AeuHAeFhcUg6ksmAgb/embed?start=true&loop=false&delayms=30000" frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
+
+<details open>
+<summary>Session 4 Presentation</summary>
+<br/>
+    [YouTube session link](https://youtu.be/INHnd9Dx6d4)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQc_36gQCBBJN8Eo4ME4_mdmtwl-MixOMMInKk5sXUyVsoEQhmbQdW6bv4v5k1eSC7tpnFdn46l9xBN/embed?start=true&loop=false&delayms=30000" 
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>

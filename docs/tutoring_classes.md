@@ -26,9 +26,11 @@ Saturday July 13th, 20th, 27th, August 3rd -- 5 - 6 pm
     </iframe>
 </details>
 
+
 <details open>
-<summary>Session 3 Presentation</summary>
+<summary>Session 3/4 Presentation</summary>
 <br/>
+    [YouTube video link](https://youtu.be/L4KPlXF5aTI)
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4guaZUHb8iwY3ZrkwhGjigKZ9b_5xq3JX7_rZRDV_A6A5-9YBjwyAEFI34UsxEw/embed?start=true&loop=false&delayms=30000" 
     frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
@@ -62,6 +64,7 @@ Thursday July 11th, 18th, 25th, August 1st  -- 5 - 6:30 pm
 <details open>
 <summary>Session 3 Presentation</summary>
 <br/>
+    [YouTube video link](https://youtu.be/Jx8VDhjR_ZY)
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjyHxd-YYerf_LvXHGLpuWTX8ibGjlh8jnLimDLzRLWKrM0-CkEGXHcYlzFw-LSA/embed?start=true&loop=false&delayms=30000"
     frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
