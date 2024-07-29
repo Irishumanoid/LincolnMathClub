@@ -36,6 +36,22 @@ Saturday July 13th, 20th, 27th, August 3rd -- 5 - 6 pm
     </iframe>
 </details>
 
+<details open>
+<summary>Session 5 Presentation</summary>
+<br/>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAQqxm1n17uwBIuAFMh7bYBMW8kgjsv71L03bA5Zhv717YIwLYZwFKkDW5z-wQCA/embed?start=false&loop=true&delayms=30000"
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
+
+<details open>
+<summary>Session 6 Presentation</summary>
+<br/>
+    [YouTube video link](https://youtu.be/TLFXqUtzeTs)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTRHQHwNUOJanOJ84dSD6DbImM09sU-2cIjJIDLiUDpQ3nvXINd9E3RaavG9BK25g/embed?start=false&loop=true&delayms=30000" 
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
 
 
 ## 5th Grade Tutoring
@@ -66,6 +82,15 @@ Thursday July 11th, 18th, 25th, August 1st  -- 5 - 6:30 pm
 <br/>
     [YouTube video link](https://youtu.be/Jx8VDhjR_ZY)
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjyHxd-YYerf_LvXHGLpuWTX8ibGjlh8jnLimDLzRLWKrM0-CkEGXHcYlzFw-LSA/embed?start=true&loop=false&delayms=30000"
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
+
+<details open>
+<summary>Session 4/5 Presentation</summary>
+<br/>
+    [YouTube video link](https://youtu.be/NkAvYncl6_Q)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIavwfpYZBXxAeMJ9FLmgRcXQaBfNTsm49Y2aeEi5NZYl5JK8QGvgLAIweIGHrVSPqq3F-AooBWJKE/embed?start=false&loop=true&delayms=30000"
     frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
 </details>
