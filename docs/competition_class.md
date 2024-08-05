@@ -76,3 +76,19 @@ We will post the class presentations as well as the problem sets here for review
     frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
 </details>
+
+
+<details open>
+<summary>Session 7 Presentation</summary>
+<br/>
+    [YouTube session link](https://youtu.be/_9Ms2IaOCFo)
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk1uv9AjDDFEhkjaqxnvn06y3J4zCN9-yMll-kLHcTM5ZgINRGoK9QatBnJHGDDJX2NorCtjypNTV0/embed?start=false&loop=true&delayms=30000" 
+    frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    </iframe>
+</details>
+
+<details open>
+<summary>Session 8 Presentation</summary>
+<br/>
+    [YouTube session link](https://youtu.be/lmvo9fwI-rA)
+</details>
