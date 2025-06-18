@@ -19,5 +19,9 @@
   "previous": {
     "title": "Grade Level Tutoring Classes",
     "permalink": "/docs/tutoring_classes"
+  },
+  "next": {
+    "title": "Archives",
+    "permalink": "/docs/archives"
   }
 }

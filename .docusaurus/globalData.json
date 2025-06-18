@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "archives",
+              "path": "/docs/archives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "competition_class",
               "path": "/docs/competition_class",
               "sidebar": "tutorialSidebar"

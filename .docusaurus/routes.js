@@ -99,16 +99,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '746'),
+    component: ComponentCreator('/docs', '9e1'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '070'),
+        component: ComponentCreator('/docs', '049'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '441'),
+            component: ComponentCreator('/docs', '032'),
             routes: [
+              {
+                path: '/docs/archives',
+                component: ComponentCreator('/docs/archives', 'cec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/competition_class',
                 component: ComponentCreator('/docs/competition_class', '198'),

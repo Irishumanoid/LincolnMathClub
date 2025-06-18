@@ -22,6 +22,7 @@ const sidebars: SidebarsConfig = {
     'our_tutors',
     'tutoring_classes',
     'competition_class',
+    'archives',
   ],
    
 };

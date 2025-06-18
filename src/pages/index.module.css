@@ -8,6 +8,19 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+
+  /* Seamless wave gradient animation */
+  background: linear-gradient(
+    90deg, 
+    #ff512f 0%, 
+    #ee0505 20%, 
+    #dd2476 40%, 
+    #ee0505 60%, 
+    #ee0505 80%, 
+    #ff512f 100%
+  );
+  background-size: 200% 100%;
+  animation: gradientAnimation 5s linear infinite;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +33,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 200% 0%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
 }

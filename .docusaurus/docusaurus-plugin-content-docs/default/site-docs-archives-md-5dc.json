@@ -1,0 +1,23 @@
+{
+  "id": "archives",
+  "title": "2024 Archived Resources",
+  "description": "These resources were used in the 2024 summer program. We modify and improve our lessons every year based on feedback we receive, so this year's lesson plans will be different. These class resources may still be useful to guage the difficulty level of the classes or as supplementary learning materials.",
+  "source": "@site/docs/archives.md",
+  "sourceDirName": ".",
+  "slug": "/archives",
+  "permalink": "/docs/archives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Archives",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Competitive Math Training Class",
+    "permalink": "/docs/competition_class"
+  }
+}

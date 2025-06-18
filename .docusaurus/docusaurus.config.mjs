@@ -104,7 +104,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 Lincoln Math Club."
+      "copyright": "Copyright © 2025 Lincoln Math Club."
     },
     "prism": {
       "theme": {

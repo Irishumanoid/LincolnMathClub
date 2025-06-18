@@ -194,18 +194,22 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-746": {
+  "/docs-9e1": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-070": {
+  "/docs-049": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-441": {
+  "/docs-032": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/archives-cec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-archives-5-dc-bbb"
   },
   "/docs/competition_class-198": {
     "__comp": "__comp---theme-doc-item-178-a40",
