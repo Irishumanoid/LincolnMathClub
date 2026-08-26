@@ -20,8 +20,6 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
     'our_tutors',
-    'tutoring_classes',
-    'competition_class',
     'archives',
   ],
    

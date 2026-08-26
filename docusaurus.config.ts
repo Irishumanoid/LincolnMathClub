@@ -63,53 +63,14 @@ const config: Config = {
           label: 'Summer Program',
         },
         {to: 'https://lincoln-math-competition-website.vercel.app/', label: 'Our Math Competition', position: 'left'},
-        {
-          href: 'https://github.com/LincolnMathClub/LincolnMathClub',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: 'https://lhs-potw.vercel.app/', label: 'Problem of the Week', position: 'left'},
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/lincolnmathgroup/',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/HXNgtvhk',
-            }
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            }
-          ],
-        },
-        {
-          title: 'Contact Us',
-          items: [
-            {
-              label: 'Email',
-              href: 'mailto:lincolnmathclubseattle@gmail.com',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} Lincoln Math Club.`,
+      // The Contact Us button (mailto) is rendered next to the copyright
+      // text by the swizzled Footer component in src/theme/Footer.
     },
     prism: {
       theme: prismThemes.github,
