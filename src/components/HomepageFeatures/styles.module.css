@@ -5,7 +5,11 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.featureTitle {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.featureRow {
+  margin-top: 2.5rem;
 }

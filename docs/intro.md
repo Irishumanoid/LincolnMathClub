@@ -5,27 +5,40 @@ sidebar_position: 1
 
 # Session Information
 
-Our classes will occur throughout the month of July, starting the week of July 8th. Each class will occur twice per week, for four weeks, and the exact schedule for each class will be released on July 1st. We are teaching 4 classes: competitive math preparation, 3rd grade accelerated review, 4th grade accelerated review, and 5th grade accelerated review.
+In 2026, we offered two ways for students to join Lincoln Math Camp: a **virtual camp on Friday, 7/10** and our **in-person camp**, held Tuesday, 6/30 and Wednesday, 7/1. Details for each are below.
 
-## Class Expectations
+## Virtual Camp — Friday, 7/10
 
-* Classes will be on zoom and cameras should always be turned on to ensure students are focused throughout the class.
-* Homework should be done in a timely manner. We understand it is summer but given you are taking this class, we expect you to complete homework from each class before the next class.
-* If for any reason you need to miss a class, please email your teacher and let us know ahead of time. Slides can be used as resources if you miss a class, if you need any other support, please email your teacher with any questions. We will also try to record our classes. Slides will be available 
-* The course is problem-based, so we will be building concepts up around the problems we provide instead of employing traditional lectures
+The virtual camp was held on Friday, 7/10, from **9:00 AM to 12:00 PM**.
 
+**Materials required:**
+* Paper and pencil
+* A working camera, turned on for the duration of the session
 
-## Class Materials
+**Session structure:**
+* The camp covered 3 topics, with 2 breaks in between. During each break, the meeting ended, and students rejoined using the same link by the end of the break.
+* Students printed the note sheet (sent with their registration confirmation), which had fill-in-the-blank notes to complete along with the slides.
+* After the camp, we sent out a packet of practice problems so students could apply the skills they learned.
 
-Class presentations and recordings, problem sets, and further lecture materials will be posted in the classes' respective pages. The resources your child is expected to have to get the most of our classes are as follows.
+## In-Person Camp — Tuesday 6/30 & Wednesday 7/1
 
-* Stable Internet connection and a laptop or monitor
+**Time and location:**
+* The camp was held at the **Lincoln High School library** on Tuesday, 6/30, and Wednesday, 7/1.
+* The camp began at **9:00 AM**; campers were expected to arrive around **8:45 AM**.
+* Campers entered through either the **main entrance** or the **historic entrance**, where volunteers directed them to the library.
+* Parents/guardians were welcome to stay in the back of the library for the duration of the camp, or to leave and return at **12:00 PM** for pickup.
+
+**Materials required:**
 * Pencils
-* Paper
-* A positive mindset and willingness to learn
+* A snack
+* A readiness to learn and be challenged!
 
+**Session structure:**
+* The camp covered 4 main competition math topics: geometry, number theory, counting, and probability.
+* Students received a note sheet packet with key concepts to remember.
+* After the camp, students were given a packet of problems to complete on their own to practice what they'd learned.
 
 ## Support Future Classes
-If you believe your child will or has benefited from any of our programs, please consider [donating to Lincoln Math Club](https://www.schoolpay.com/pay/for/Math-Club-Donations/SdmwPMB) to support similar programs in the future, as well as 
+If you believe your child will or has benefited from any of our programs, please consider [donating to Lincoln Math Club](https://www.schoolpay.com/pay/for/Math-Club-Donations/SdmwPMB) to support similar programs in the future, as well as
 fund math competition access for every student who wants to participate in competitions like the AMC through Lincoln Math
-Club. 
+Club.

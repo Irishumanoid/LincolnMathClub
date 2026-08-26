@@ -1,0 +1,12 @@
+.footerBottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+  text-align: center;
+}
+
+.contactButton {
+  white-space: nowrap;
+}
